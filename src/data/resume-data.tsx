@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "Experienced Backend and Blockchain Engineer with a focus on building scalable products. Skilled in Blockchain security, implementation, and smart contracts",
   summary:
-    "I have over 4 years of experience in backend and blockchain, working remotely with companies all around the world. Successfully developed and lead teams on products which have gone on to raise more than $1 Million",
+    "Bringing over 4 years of experience in backend development and blockchain technology, with a proven track record of working remotely for international companies. My leadership in developing and guiding teams has contributed to projects that successfully raised over $1 Million.",
   avatarUrl: "https://avatars.githubusercontent.com/u/38098896?v=4", // Replace with Gurkaran's avatar URL
   personalWebsiteUrl: "https://github.com/gurkaransahni99",
   contact: {
@@ -50,7 +50,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2024",
       description:
-        "Worked on 20 different products, with multiple teams across the globe. Audited and secured smart contracts with TVL in millions",
+        "Worked on multiple different products, with teams across the globe. Audited and secured smart contracts with TVL in millions",
     },
     {
       company: "Bitbns",
@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2023",
       description:
-        "Lead Blockchain development team. Created industry-first blockchain-based fantasy gaming startup. Developed decentralized digital asset management platform. Worked on various projects, from arbitrage and snipe bots to DeFi and NFTs.",
+        "Led the blockchain development team. Created industry-first blockchain-based fantasy gaming startup. Developed decentralized digital asset management platform. Worked on various projects, from arbitrage and snipe bots to DeFi and NFTs.",
     },
     {
       company: "Buyhatke",
