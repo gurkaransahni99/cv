@@ -46,6 +46,7 @@ export const RESUME_DATA = {
       company: "Freelancer",
       link: "https://www.upwork.com/freelancers/~010ecfc738af7e39df",
       badges: ["Remote"],
+      title: "",
       start: "2022",
       end: "2024",
       description:
