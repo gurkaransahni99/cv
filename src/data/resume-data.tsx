@@ -216,6 +216,7 @@ export const RESUME_DATA = {
       logo: "VakyaLogo", // Replace with the appropriate logo
       link: {
         label: "DCA tool",
+        href: "",
       },
     },
     {
@@ -225,6 +226,7 @@ export const RESUME_DATA = {
       logo: "VakyaLogo", // Replace with the appropriate logo
       link: {
         label: "Trading Bot",
+        href: "",
       },
     },
     // Add more projects as needed
