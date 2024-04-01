@@ -27,7 +27,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://twitter.com/gurkaran_sahni",
+        url: "https://twitter.com/0xgurri",
         icon: XIcon,
       },
     ],
