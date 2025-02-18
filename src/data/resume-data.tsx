@@ -43,6 +43,28 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "dBOOK",
+      link: "https://dbook.network/",
+      badges: [],
+      title: "CTO and Founder",
+      logo: "BitbnsLogo", // Replace with the appropriate logo
+      start: "2025",
+      end: "",
+      description:
+        "Building the first consensusless settlement network that works on top of any chain (Bitcoin, Ethereum, Solana, TON) and off-chain entities (CEXs, KYC providers)",
+    },
+    {
+      company: "Rootpe",
+      link: "https://rootpe.com/",
+      badges: [],
+      title: "Blockchain Developer",
+      logo: "BitbnsLogo", // Replace with the appropriate logo
+      start: "2024",
+      end: "2025",
+      description:
+        "Built blockchain and smart contract infrastructure for finternet and RWA protocols",
+    },
+    {
       company: "Freelancer",
       link: "https://www.upwork.com/freelancers/~010ecfc738af7e39df",
       badges: ["Remote"],
