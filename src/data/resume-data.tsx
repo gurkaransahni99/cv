@@ -253,7 +253,7 @@ export const RESUME_DATA = {
     },
     // Add more projects as needed
   ],
-  interests: ["Reading", "Chess", "Travelling", "White hacking crypto projects"],
+  interests: ["Strength Training", "Reading", "Chess", "Ethical hacking"],
 } as const;
 
 // export const RESUME_DATA = {
