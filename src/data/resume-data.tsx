@@ -43,15 +43,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "dBOOK",
-      link: "https://dbook.network/",
+      company: "nomo",
+      link: "https://x.com/nomohq",
       badges: [],
-      title: "CTO and Founder",
+      title: "CTO, Founder",
       logo: "BitbnsLogo", // Replace with the appropriate logo
       start: "2025",
       end: "",
       description:
-        "Building the first consensusless settlement network that works on top of any chain (Bitcoin, Ethereum, Solana, TON) and off-chain entities (CEXs, KYC providers)",
+        "Built and launched a social-first AI agent enabling on-chain transactions via social platforms (X, YouTube, Telegram), acquiring 100+ early users and validating initial demand",
     },
     {
       company: "Rootpe",
