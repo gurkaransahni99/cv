@@ -5,10 +5,8 @@ export const RESUME_DATA = {
   initials: "GS",
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
-  about:
-    "Experienced Backend and Blockchain Engineer with a focus on building scalable products. Skilled in Blockchain security, implementation, and smart contracts",
   summary:
-    "Bringing over 4 years of experience in backend development and blockchain technology, with a proven track record of working remotely for international companies. My leadership in developing and guiding teams has contributed to projects that successfully raised over $1 Million.",
+    "Blockchain and Backend Engineer with 5+ years of experience in building protocol infrastructure, wallets, indexers and cross chain executions. Built systems across EVM, RWA, DeFi, AI agent and compliant asset workflows.",
   avatarUrl: "https://avatars.githubusercontent.com/u/38098896?v=4", // Replace with Gurkaran's avatar URL
   personalWebsiteUrl: "https://github.com/gurkaransahni99",
   contact: {
