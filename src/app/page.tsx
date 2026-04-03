@@ -95,7 +95,7 @@ export default function Page() {
         <Section>
           <h2 className="text-xl font-bold">About</h2>
           <p className="text-pretty font-mono text-sm text-muted-foreground">
-            {RESUME_DATA.summary}
+            {RESUME_DATA.about}
           </p>
         </Section>
         <Section>
