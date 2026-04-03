@@ -6,18 +6,16 @@ export const RESUME_DATA = {
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   about:
-    "Experienced Backend and Blockchain Engineer with a focus on building scalable products. Skilled in Blockchain security, implementation, and smart contracts",
-  summary:
-    "Bringing over 4 years of experience in backend development and blockchain technology, with a proven track record of working remotely for international companies. My leadership in developing and guiding teams has contributed to projects that successfully raised over $1 Million.",
-  avatarUrl: "https://twitter.com/gurkaran_sahni/photo", // Replace with Gurkaran's avatar URL
+    "Blockchain and Backend Engineer with 5+ years of experience in building protocol infrastructure, wallets, indexers and cross chain executions. Built systems across EVM, RWA, DeFi, AI agent and compliant asset workflows.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/38098896?v=4", // Replace with Gurkaran's avatar URL
   personalWebsiteUrl: "https://github.com/gurkaransahni99",
   contact: {
     email: "gurkaran.sahni@gmail.com",
-    tel: "+91-9791444025",
+    tel: +91,
     social: [
       {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/gurkaran-sahni-923721129",
+        url: "https://linkedin.com/in/gurkaransahni/",
         icon: LinkedInIcon, // Replace with the appropriate icon component
       },
       {
@@ -27,7 +25,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://twitter.com/gurkaran_sahni",
+        url: "https://twitter.com/0xgurri",
         icon: XIcon,
       },
     ],
@@ -42,6 +40,28 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+    {
+      company: "nomo",
+      link: "https://x.com/nomohq",
+      badges: [],
+      title: "CTO, Founder",
+      logo: "BitbnsLogo", // Replace with the appropriate logo
+      start: "2025",
+      end: "",
+      description:
+        "Built and launched a social-first AI agent enabling on-chain transactions via social platforms (X, YouTube, Telegram), acquiring 100+ early users and validating initial demand",
+    },
+    {
+      company: "Rootpe",
+      link: "https://rootpe.com/",
+      badges: [],
+      title: "Blockchain Developer",
+      logo: "BitbnsLogo", // Replace with the appropriate logo
+      start: "2024",
+      end: "2025",
+      description:
+        "Built blockchain and smart contract infrastructure for finternet and RWA protocols",
+    },
     {
       company: "Freelancer",
       link: "https://www.upwork.com/freelancers/~010ecfc738af7e39df",
@@ -231,7 +251,7 @@ export const RESUME_DATA = {
     },
     // Add more projects as needed
   ],
-  interests: ["Reading", "Chess", "Travelling", "White hacking crypto projects"],
+  interests: ["Strength Training", "Reading", "Chess", "Ethical hacking"],
 } as const;
 
 // export const RESUME_DATA = {
