@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Experienced Backend and Blockchain Engineer with a focus on building scalable products. Skilled in Blockchain security, implementation, and smart contracts",
   summary:
     "Bringing over 4 years of experience in backend development and blockchain technology, with a proven track record of working remotely for international companies. My leadership in developing and guiding teams has contributed to projects that successfully raised over $1 Million.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/38098896?v=4", // Replace with Gurkaran's avatar URL
+  avatarUrl: "https://twitter.com/gurkaran_sahni/photo", // Replace with Gurkaran's avatar URL
   personalWebsiteUrl: "https://github.com/gurkaransahni99",
   contact: {
     email: "gurkaran.sahni@gmail.com",
