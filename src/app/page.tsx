@@ -21,9 +21,9 @@ export default function Page() {
         <div className="flex items-center justify-between">
           <div className="flex-1 space-y-1.5">
             <h1 className="text-2xl font-bold">{RESUME_DATA.name}</h1>
-            <p className="max-w-md text-pretty font-mono text-sm text-muted-foreground">
+            {/* <p className="max-w-md text-pretty font-mono text-sm text-muted-foreground">
               {RESUME_DATA.about}
-            </p>
+            </p> */}
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
               <a
                 className="inline-flex gap-x-1.5 align-baseline leading-none hover:underline"
@@ -97,6 +97,24 @@ export default function Page() {
           <p className="text-pretty font-mono text-sm text-muted-foreground">
             {RESUME_DATA.about}
           </p>
+        </Section>
+        <Section>
+          <h2 className="text-xl font-bold">Key Achievements</h2>
+          <ul className="text-xs list-none space-y-1 font-mono text-muted-foreground">
+            {RESUME_DATA.achievements.map((achievement, index) => (
+              <li key={index}>▸{" "}
+                {achievement.text}{" "}
+                <a
+                  className="underline hover:text-foreground"
+                  href={achievement.linkHref}
+                  target="_blank"
+                >
+                  {achievement.linkText}
+                </a>
+                {achievement.suffix ? ` ${achievement.suffix}` : ""}
+              </li>
+            ))}
+          </ul>
         </Section>
         <Section>
           <h2 className="text-xl font-bold">Work Experience</h2>

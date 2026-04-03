@@ -30,6 +30,44 @@ export const RESUME_DATA = {
       },
     ],
   },
+  achievements: [
+    {
+      text: "Secured",
+      linkText: "$4.6M",
+      linkHref: "https://www.coindesk.com/business/2024/03/21/newly-issued-gaming-token-exploited-on-blast-with-46m-drained",
+      suffix: "onchain funds through whitehat with SEAL 911 team",
+    },
+    {
+      text: "Led development of products for ICO and IDO launches, raising over",
+      linkText: "$1M",
+      linkHref: "https://www.coingecko.com/en/nft/smart-finance-og-nft",
+      suffix: "",
+    },
+    {
+      text: "Audited and secured smart contracts with total TVL exceeding",
+      linkText: "$10M",
+      linkHref: "https://spacecatch.io/",
+      suffix: "",
+    },
+    {
+      text: "Selected for CDL Montreal at nomo. Got",
+      linkText: "$10K",
+      linkHref: "https://github.com/Polkadot-Fast-Grants/apply/pull/63",
+      suffix: "grant from Polkadot",
+    },
+    {
+      text: "Presented at Singapore Fintech Festival (2024) for Rootpe and",
+      linkText: "Finternet",
+      linkHref: "https://finternetlab.io/",
+      suffix: "",
+    },
+    {
+      text: "Collaborated with cybercrime police in tracing $15K stolen funds",
+      linkText: "",
+      linkHref: "",
+      suffix: "",
+    },
+  ],
   education: [
     {
       school: "Vellore Institute of Technology",
@@ -47,7 +85,7 @@ export const RESUME_DATA = {
       title: "CTO, Founder",
       logo: "BitbnsLogo", // Replace with the appropriate logo
       start: "2025",
-      end: "",
+      end: "2026",
       description:
         "Built and launched a social-first AI agent enabling on-chain transactions via social platforms (X, YouTube, Telegram), acquiring 100+ early users and validating initial demand",
     },
@@ -55,7 +93,7 @@ export const RESUME_DATA = {
       company: "Rootpe",
       link: "https://rootpe.com/",
       badges: [],
-      title: "Blockchain Developer",
+      title: "Senior Blockchain Engineer",
       logo: "BitbnsLogo", // Replace with the appropriate logo
       start: "2024",
       end: "2025",
@@ -65,18 +103,18 @@ export const RESUME_DATA = {
     {
       company: "Freelancer",
       link: "https://www.upwork.com/freelancers/~010ecfc738af7e39df",
-      badges: ["Remote"],
-      title: "",
-      start: "2022",
+      badges: [],
+      title: "Consultant",
+      start: "2023",
       end: "2024",
       description:
-        "Worked on multiple different products, with teams across the globe. Audited and secured smart contracts with TVL in millions",
+        "Led multiple product launches with teams across the globe. Raised over $700K. Audited and secured smart contracts with TVL over $5M",
     },
     {
       company: "Bitbns",
       link: "https://bitbns.com",
       badges: [],
-      title: "Software Engineer",
+      title: "Senior Software Engineer",
       logo: "BitbnsLogo", // Replace with the appropriate logo
       start: "2020",
       end: "2023",
@@ -117,21 +155,39 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Solidity",
-    "Node.js",
+    "Javascript",
+    "Go",
     "Foundry",
     "Hardhat",
-    "Go",
-    "Python",
-    "Spring",
-    "Spark",
+    "LangGraph",
+    "LangSmith",
     "Kafka",
-    "Maya",
-    // Add more skills as needed
+    "n8n",
   ],
   projects: [
+      {
+      title: "Follows",
+      techStack: ["AI Agent", "Solidity"],
+      description: "Imagine friend.tech on AI. Led the product launch. Raised over $600K",
+      logo: "VakyaLogo", // Replace with the appropriate logo
+      link: {
+        label: "follows.app",
+        href: "https://follows.app/",
+      },
+    },
+    {
+      title: "SuperSushiSamurai",
+      techStack: ["Solidity"],
+      description: "Telegram native crypto game. Secured more than $4M.",
+      logo: "VakyaLogo", // Replace with the appropriate logo
+      link: {
+        label: "sss.game",
+        href: "https://sss.game/",
+      },
+    },
     {
       title: "Vakya.ai",
-      techStack: ["Node.js", "OpenAI"],
+      techStack: ["AI Agent", "Node.js"],
       description: "AI assistant that helps users create content.",
       logo: "VakyaLogo", // Replace with the appropriate logo
       link: {
@@ -151,7 +207,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Meinstein.ai",
-      techStack: ["Node.js", "Solidity"],
+      techStack: ["AI Agent", "Solidity"],
       description: "Community driven AI & decentralised data sharing platform.",
       logo: "VakyaLogo", // Replace with the appropriate logo
       link: {
@@ -160,13 +216,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Follows",
+      title: "SmartFinance",
       techStack: ["Solidity"],
-      description: "Follows is a decentralized social media platform.",
+      description: "Crosschain trading and staking platform. Secured TVL of $500K across their nodes, NFT and trading contracts",
       logo: "VakyaLogo", // Replace with the appropriate logo
       link: {
-        label: "follows.app",
-        href: "https://follows.app/",
+        label: "SmartFinance",
+        href: "https://www.coingecko.com/en/nft/smart-finance-og-nft",
       },
     },
     {
