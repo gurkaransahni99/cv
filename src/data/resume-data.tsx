@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   about:
-    "Blockchain and Backend Engineer with 5+ years of experience in building protocol infrastructure, wallets, indexers and cross chain executions. Built systems across EVM, RWA, DeFi, AI agent and compliant asset workflows.",
+    "Blockchain and Backend Engineer with 5+ years of experience in building protocol infrastructure, wallets, indexers and cross chain executions. Built systems across EVM, RWA, DeFi, AI agents and compliant asset workflows.",
   avatarUrl: "https://avatars.githubusercontent.com/u/38098896?v=4", // Replace with Gurkaran's avatar URL
   personalWebsiteUrl: "https://github.com/gurkaransahni99",
   contact: {
